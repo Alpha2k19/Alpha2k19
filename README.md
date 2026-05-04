@@ -5,15 +5,7 @@
 - 📫 Reach me at alphonseasu@outlook.com || alphonseasu@icloud.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
--               let lerningCode = true;
--               let timeForFriendsAndLove = false;
--           
--                    while ( lerningCode )
--                {
--                    console.log("Have no time for Love && Friends")
-                        Break;
--                }
--               
+        
 
 <!---
 Alpha2k19/Alpha2k19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
